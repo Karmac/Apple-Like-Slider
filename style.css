@@ -7,39 +7,14 @@ body {
 	background: url(img/background.png);
 	color: #444;
 	text-align: center;
-	font-weight: 400;
 	font-size: 12px;
-	font-family: 'Lato';
 }
 
 h1 {
 	text-shadow: 0 1px #fff;
 	font-weight: 300;
 	font-size: 3em;
-}
-
-.topbar {
-	position: fixed;
-	top: 0;
-	display: block;
-	padding: 0 1em;
-	width: 100%;
-	background-color: rgba(255, 255, 255, .85);
-	-webkit-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.04);
-	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.04);
-	text-align: left;
-	text-transform: uppercase;
-	text-shadow: 0 1px #fff;
-	line-height: 2em;
-}
-
-a {
-	color: #444;
-	text-decoration: none;
-}
-
-a:hover {
-	color: black;
+	font-family: 'Helvetica Neue';
 }
 
 /* SLIDER */
